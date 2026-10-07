@@ -1,4 +1,5 @@
-__pycach__
+__pycache__
 *.jsonl
 *.toml
 *.lock
+*.pyc
