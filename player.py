@@ -1,5 +1,4 @@
 import pygame
-from pygame.transform import rotate
 from circleshape import CircleShape
 from constants import PLAYER_TURN_SPEED ,PLAYER_SPEED,  PLAYER_RADIUS, LINE_WIDTH
 
