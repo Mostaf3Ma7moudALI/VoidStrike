@@ -2,6 +2,19 @@
 
 A 2D Asteroids-style shooter built with `pygame`. Fly a triangular ship, dodge and split asteroids, shoot them for score events. Logs game state for testing/debugging.
 
+## Demo
+
+![VoidStrike gameplay demo](demo.png)
+
+* Player (center triangle) vs 3 asteroids + 1 shot in flight.
+* To capture your own live demo:
+```sh
+# run
+uv run main.py
+# record window with OBS / Peek (Linux) / ScreenToGif (Windows)
+# save as demo.gif and replace demo.png link above
+```
+
 ## Requirements
 
 * Python `>=3.13` (see `.python-version`)
